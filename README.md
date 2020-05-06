@@ -1,2 +1,2 @@
 # ccp-www-vtse-weather-station
-vtse weather station via esp8266
+vtse weather station via ESP8266 with BME280
